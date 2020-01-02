@@ -1,6 +1,6 @@
 <?php
 
-include "for.php";
+include "kwadratowe2.php";
 	
 ?>
 
