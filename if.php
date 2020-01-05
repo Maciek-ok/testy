@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html
+<body>
 <?php
 
 $liczba=6;
@@ -11,4 +14,6 @@ if($liczba>=0)
 }
 	
 ?>
+</body>
+</html>
 
