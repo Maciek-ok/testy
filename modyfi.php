@@ -46,21 +46,3 @@ echo 'A ja jestem '.$adam->getFullName().'<br/>';
 
 
 
-
-function modify($object)
-
-{
-
-   $object->surname = 'Nowak';
-
-} // end modify();
-
-
-$janusz = new Person;
-
-$janusz->setFullName('Janusz', 'Kowalski');
-
-modify($janusz);
-
-echo $janusz->getFullName();
-
